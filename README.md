@@ -2,7 +2,7 @@
 
 In this project, I have built an **IPL Dashboard App** by applying the concepts I have learned till now.
 
-### Refer to the image below:
+### Refer to the image below: 
 
 <br/>
 <div style="text-align: center;">
